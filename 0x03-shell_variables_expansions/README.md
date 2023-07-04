@@ -1,1 +1,1 @@
-SHELL EXPANSIONS AND VARIABLES
+How to perform arithmetic operations with the shell
